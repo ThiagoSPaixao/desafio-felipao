@@ -1,6 +1,5 @@
 //Desafio Classificador de Nível de Herói
-//O que deve ser Utilizado:
-// - Variáveis - Operadores - Laços de Repetição - Estruturas de Decisões
+//Desafio proposto pelo Prof. Felipão da DIO
 //Lá vai...
 
 
