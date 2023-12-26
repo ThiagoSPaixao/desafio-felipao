@@ -25,9 +25,9 @@ if (xpDoHeroi <= 1000) {
     console.log("O Herói " + nomeDoHeroi + " da Classe " + classeDoHeroi + " Está no nível Radiante");
 }
 
-    
 
-    
+
+
 
 
 
